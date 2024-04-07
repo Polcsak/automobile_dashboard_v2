@@ -1,0 +1,1 @@
+web: gunicorn automobile_dashboard:app
