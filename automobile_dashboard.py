@@ -11,6 +11,7 @@ data = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 #Clear the layout and do not display exception till callback gets executed
 app.config.suppress_callback_exceptions = True
