@@ -39,10 +39,6 @@ The dashboard uses the following dataset:
 
 The data is loaded automatically when the app starts.
 
-## Example Dashboard View
-
-*(Optional: Insert a screenshot here if you want)*
-
 ## Author
 
 Created by Jakub as part of a data visualization project.
